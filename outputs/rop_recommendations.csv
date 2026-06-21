@@ -1,0 +1,4 @@
+abc_class,avg_daily_demand,avg_lead_time_days,safety_stock,recommended_rop
+A,15.06,43.0,109.0,757.0
+B,15.03,43.1,77.0,725.0
+C,15.01,42.8,59.0,701.0
