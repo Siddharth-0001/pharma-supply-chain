@@ -44,7 +44,7 @@ This solution covers:
 - **Total Inventory Value**: Stock on hand × unit cost
 - **Stockout Risk Rate**: % of SKUs below reorder point
 - **Avg Supplier Lead Time**: In days across all suppliers
-- **Forecast MAPE**: Model accuracy on held-out test data
+- **Forecast MAPE**: Model accuracy on held-out test data.
 
 ---
 
